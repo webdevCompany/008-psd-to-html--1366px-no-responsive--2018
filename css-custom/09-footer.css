@@ -1,0 +1,52 @@
+.footer {
+  width: 100%;
+  height: 311px;
+  padding-top: 45px;
+  padding-left: 9%;
+  padding-right: 9%;
+  background-color: #111111;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__logo-and-copyright {
+  width: 231px;
+  height: 145px;
+}
+
+.footer__logo {
+  width: 231px;
+  height: 76px;
+  margin-bottom: 19px;
+}
+
+.copyright {
+  width: 187px;
+  height: 50px;
+  color: #fff;
+  font-size: 14px;
+}
+.copyright__span {
+  display: block;
+}
+.footer__group-3-columns {
+  width: 559px;
+  height: 202px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__column {
+  width: 157px;
+  height: 199px;
+  padding-top: 22px;
+  color: #fff;
+}
+
+.footer__column__h2 {
+  font-size: 16px;
+}
+
+.footer__column__ul {
+  margin-top: 36px;
+}

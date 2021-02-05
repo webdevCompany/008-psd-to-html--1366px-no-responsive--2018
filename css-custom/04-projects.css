@@ -1,0 +1,84 @@
+.projects {
+  width: 100%;
+  height: auto;
+  padding-left: 9%;
+  padding-right: 9%;
+  padding-top: 49px;
+  padding-bottom: 53px;
+  display: flex;
+  flex-flow: column;
+  align-items: flex-start;
+}
+
+.projects__h2 {
+  font-size: 32px;
+  color: #898989;
+  width: 367px;
+  margin-left: 388px;
+}
+
+.projects__h2-small {
+  font-size: 22px;
+  display: block;
+}
+
+.projects__figure-and-article {
+  display: flex;
+  border-top: 1px solid #c6a9b1;
+  border-right: 1px solid #c6a9b1;
+  border-bottom: 1px solid #c6a9b1;
+  width: 981px;
+  height: 360px;
+  margin-top: 36px;
+  border-left: 29px solid #fa9c17;
+}
+
+.projects__article {
+  height: 340px;
+  margin-left: 33px;
+}
+
+.projects__article__figure {
+  position: relative;
+  top: -74px;
+  left: 0;
+}
+
+.projects__article__header__h3 {
+  font-size: 30px;
+  color: #000;
+  margin-top: 53px;
+}
+
+.projects__article__p {
+  margin-top: 42px;
+  line-height: 24px;
+  width: 560px;
+  font-size: 14px;
+}
+
+.projects__buttons {
+  margin-top: 32px;
+  margin-left: 388px;
+}
+
+.projects__button-1 {
+  width: 161px;
+  height: 43px;
+  line-height: 43px;
+  background-color: #ffaf00;
+  text-align: center;
+  color: #000;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.projects__button-2 {
+  width: 141px;
+  height: 43px;
+  line-height: 43px;
+  background-color: #ffaf00;
+  text-align: center;
+  color: #000;
+  text-decoration: none;
+}

@@ -1,0 +1,44 @@
+.subscribe {
+  width: 100%;
+  height: 219px;
+  background-color: #ffaf00;
+  background-image: url(../images/construction-border-img.jpg);
+  background-size: 100% 6px;
+  background-repeat: no-repeat;
+  padding-top: 66px;
+
+  padding-left: 9%;
+  padding-right: 9%;
+
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+.subscribe__h2 {
+  margin-bottom: 29px;
+}
+
+.subscribe__form {
+  width: 682px;
+  height: 52px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.subscribe__form__input {
+  width: 247px;
+  height: 52px;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+}
+
+.subscribe__form__submit {
+  width: 137px;
+  height: 52px;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  border: 0;
+  outline: 0;
+}
